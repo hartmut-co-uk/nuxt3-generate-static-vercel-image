@@ -4,6 +4,8 @@ Feature request: Support (nuxt3) nuxt/image with vercel provider for static app 
 
 Hosted on vercel: [https://nuxt3-generate-static-vercel-image.vercel.app](https://nuxt3-generate-static-vercel-image.vercel.app)
 
+Reproduction example for [https://github.com/nuxt/image/issues/617](https://github.com/nuxt/image/issues/617)
+
 ## Behaviour
 
 | Expected                                                                                                       | Actual                                                                                                                       |
